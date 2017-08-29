@@ -1,0 +1,52 @@
+body{
+  margin:0;
+  padding:0;
+  width: 100%;
+}
+
+/* header*/
+.cabecera{
+  background-color: #e6e6e6;
+  height: 5%;
+  width: 100%;
+}
+.miSesion{
+  margin-left: -7%;
+}
+.salir{
+  padding-left: 20%;
+}
+.logo{
+  width: 55%;
+  padding-right: 3%;
+  margin-right: -3%;
+}
+.dropdown{
+  margin-top: 1%;
+}
+.accesos{
+  padding-right: 30%;
+}
+.contenedorDrop{
+  border: 2px solid #5E5E5E;
+  font-size: 2.5vh;
+  margin-right: .5%;
+  height: 50%;
+}
+.filaDrop{
+  margin-top: 22%;
+}
+.spanDrop{
+  margin-left: -12%;
+}
+.tabs{
+  margin-left: 1%;
+}
+.tabsColor{
+  background-color: #5B5B5B;
+}
+.pills{
+  background: #5A5674;
+  margin-top: 2%;
+  color: #fff;
+}
